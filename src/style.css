@@ -4,9 +4,51 @@ body {
   border: 0px solid #000000;
   border-radius: 20px;
   box-shadow: 2px 2px 12px rgba(126, 126, 126, 0.932);
-  background-image: linear-gradient(to top, #21ffda 0%, #eaffefe5 100%);
+  background-image: linear-gradient(to top, #76f7e1 0%, #eaffefe5 100%);
 }
-img {
-  margin: 0;
-  padding: 0;
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 15px 60px;
+}
+.firstimage {
+  display: block;
+  margin: 0 auto;
+  max-width: 70%;
+  border-radius: 10px;
+  box-shadow: 2px 2px 12px rgba(126, 126, 126, 0.932);
+}
+.profilepic {
+  display: block;
+  margin: 0 auto;
+  max-width: 40%;
+  border-radius: 10px;
+}
+
+.servicename {
+  font-family: rouge script;
+  color: #000000;
+  font-size: 50px;
+  padding-top: 40px;
+  text-align: center;
+}
+.sherral {
+  color: #000000;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center;
+  padding-bottom: 20px;
+}
+.contactnum {
+  color: #000000;
+  font-size: 15px;
+  text-align: center;
+}
+.recreate {
+  font-size: 20px;
+  text-align: center;
+}
+footer {
+  font-size: 14px;
 }
