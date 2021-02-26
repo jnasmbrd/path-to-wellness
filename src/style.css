@@ -8,21 +8,21 @@ body {
 }
 
 .container {
-  max-width: 800px;
+  max-width: 900px;
   margin: 0 auto;
   padding: 15px 60px;
 }
 .firstimage {
   display: block;
   margin: 0 auto;
-  max-width: 50%;
-  border-radius: 10px;
+  max-width: 70%;
+  border-radius: 30px;
   box-shadow: 2px 2px 12px rgba(126, 126, 126, 0.932);
 }
 .profilepic {
   display: block;
   margin: 0 auto;
-  max-width: 40%;
+  max-width: 30%;
   border-radius: 10px;
 }
 .imagefooter {
@@ -35,22 +35,24 @@ body {
 
 .servicename {
   font-family: "Rouge Script", cursive;
-  color: #000000;
-  font-size: 50px;
+  color: #413d3d;
+  font-size: 35px;
   padding-top: 40px;
   text-align: center;
 }
 .sherral {
   color: #000000;
-  font-size: 20px;
+  font-size: 13px;
   font-weight: 400;
   text-align: center;
   padding-bottom: 20px;
+  font-style: italic;
 }
 .contactnum {
-  color: #000000;
-  font-size: 15px;
+  color: #535252;
+  font-size: 14px;
   text-align: center;
+  font-style: italic;
 }
 .recreate {
   font-size: 20px;
